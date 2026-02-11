@@ -11,14 +11,10 @@
             "id": "715f91d8b96e9f81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "create a link.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "create a link"
+              "title": "New tab"
             }
           }
         ]
@@ -210,8 +206,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "715f91d8b96e9f81",
+  "active": "8e9c093a19b6a01b",
   "lastOpenFiles": [
+    "Bases de Datos Avanzadas",
+    "Redes y Telecomunicaciones",
     "Welcome.md",
     "create a link.md"
   ]
