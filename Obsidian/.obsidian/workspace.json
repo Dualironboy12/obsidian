@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "139aba435e647d10",
+        "id": "9458b2c317319456",
         "type": "tabs",
         "children": [
           {
-            "id": "85ec49f3d101a9a0",
+            "id": "0c79d3f5689c5a21",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -169,6 +169,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "67f42a0113bb90f4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "315c97fda54415a1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
           }
         ],
         "currentTab": 5
@@ -186,12 +206,22 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "85ec49f3d101a9a0",
+  "active": "0c79d3f5689c5a21",
   "lastOpenFiles": [
+    "Comportamiento y Desarrollo Humano/Las emociones.md",
     "Ingenieria de Software/Bloque 2 UML.md",
+    "Comportamiento y Desarrollo Humano/Cadena del miedo.md",
+    "Excalidraw",
+    "Bases de Datos Avanzadas/Modelos en OO DBMS.md",
+    "Bases de Datos Avanzadas/Fundamentos y motivacion.md",
+    "Comportamiento y Desarrollo Humano",
     "Generales/UML",
     "Ingenieria de Software/Imagenes",
     "Ingenieria de Software/Imagenes/Pasted image 20260211182745.png",
@@ -204,9 +234,7 @@
     "Generales",
     "Bases de Datos Avanzadas/Objetos y Operaciones.md",
     "Bases de Datos Avanzadas/ODMG y estandares.md",
-    "Bases de Datos Avanzadas/Modelos en OO DBMS.md",
     "Bases de Datos Avanzadas/Bases de datos Avanzadas.md",
-    "Bases de Datos Avanzadas/Fundamentos y motivacion.md",
     "Generales/ACID.md",
     "Bases de Datos Avanzadas/DBMS Relacionales.md",
     "Bases de Datos Avanzadas/Concurrencia y Transacciones.md",

@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "obsidian-plantuml"
+  "obsidian-plantuml",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-excalidraw-plugin",
+  "smart-connections"
 ]
