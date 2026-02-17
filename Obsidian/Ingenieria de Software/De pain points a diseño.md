@@ -17,3 +17,8 @@ El sistmea detecta el estado inicial
 La logica orquesta la transaccion o el cambio de estado
 ## Despues
 El nuevo equilibrio del sistema y la persistencia de datos
+
+Es importante modelar que eventos nos mueven de los estados
+# Mockup Simple: Ejemplo Disponibilidad
+## Logica de visualizacion
+El wireframe no busca estetica. Valida que el conductor recibira datos de ocupacion segmentados antes de llegar al punto de friccion.
