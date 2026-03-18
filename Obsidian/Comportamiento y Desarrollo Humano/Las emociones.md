@@ -2,10 +2,11 @@
 ## Emoción
 Es una reacción psicofisiologica que experimentamos frente a un estimulo externo o interno
 ## Origen fisiológico y biológico
-Surgen de estímulos 
+Surgen de estímulos internos, como cambios corporales 
 ## Origen cognitivo
-
+Lo que pensamos sobre una situacion afecta a nuestras emociones de manera positiva o negativa
 ## Origen conductual
+Nuestras acciones hacia cierta situacion temida nos generan emociones por ejemplo
 # ¿Que es el miedo?
 - Es producto del pensamiento (origen cognitivo)
 - Es una emocion natural y basica ante la percepcion de un peligro ya sea real o imaginario
@@ -31,7 +32,21 @@ El cuerpo y la mente estan interconectados y ante emociones intensas o prolongad
 > Las Emociones negativas intensas absorben toda la atencion del individuo, obstaculizando cualquier intento de atender otra cosa
 > 	-- Daniel Goleman
 
-La inteligencia emocional fue popularizada por el psicologo estadounidense **Daniel Goleman** y hace referencia a la capacidad para reconocer los sentimientos propios y ajenos. La persona por lo tanto es inteligente (habil) para el manejo de los sentimientos
+Se define como nuestra capacidad de percibir, comprender, manejar y utilizar nuestras emociones.
+La inteligencia emocional fue popularizada por el psicologo estadounidense **Daniel Goleman** y hace referencia a la capacidad para reconocer los sentimientos propios y ajenos. 
+La persona por lo tanto es inteligente (habil) para el manejo de los sentimientos
+Goleman define los pilares de la inteligencia emocional como:
+- Autoconocimiento
+- Autocontrol
+- Automotivacion
+- Empatia
+- Habilidades sociales
+Y los requisitos para una vida exitosa los define:
+- Autoimagen
+- Autoestima
+- Resolucion de problemas
+- Adaptacion
+- Gestion Emocional
 # Coeficiente intelectual (CI)
 
 | Rango de coeficiente intelectual | Categorizacion     |
