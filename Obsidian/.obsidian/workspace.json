@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -233,7 +233,7 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "d3341e486d35c33a",
+  "active": "97e05268959099f8",
   "lastOpenFiles": [
     "Bases de Datos Avanzadas/Objetos y Operaciones.md",
     "Bases de Datos Avanzadas/OQL.md",
