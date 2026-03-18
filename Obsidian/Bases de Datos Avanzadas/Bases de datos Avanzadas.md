@@ -3,7 +3,7 @@
 2. [[ODMG y estandares]]
 3. [[Modelos en OO DBMS]]
 4. [[Objetos y Operaciones]]
-5. [[Concurrencia y Transacciones]]
+5. [[Concurrencia y Transacciones en ODMG]]
 6. [[OQL]]
 7. [[Ejemplos de Esquemas]]
 8. [[UML aplicado a OODBs]]
