@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de Datos Avanzadas/OQL.md",
+                "file": "Ingenieria de Software/Planes de calidad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OQL"
+              "title": "Planes de calidad"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1d1b1c039fa331fd",
@@ -233,13 +232,17 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "97e05268959099f8",
+  "active": "d3341e486d35c33a",
   "lastOpenFiles": [
-    "Bases de Datos Avanzadas/Objetos y Operaciones.md",
+    "Bases de Datos Avanzadas/XQuery.md",
+    "Ingenieria de Software/Planes de calidad.md",
+    "Bases de Datos Avanzadas/XPath.md",
+    "Bases de Datos Avanzadas/XML.md",
     "Bases de Datos Avanzadas/OQL.md",
+    "Bases de Datos Avanzadas/Objetos y Operaciones.md",
+    "Bases de Datos Avanzadas/ODMG y estandares.md",
     "Sin nombre",
     "Bases de Datos Avanzadas/Concurrencia y Transacciones en ODMG.md",
-    "Bases de Datos Avanzadas/ODMG y estandares.md",
     "Bases de Datos Avanzadas/Bases de datos Avanzadas.md",
     "Generales/UML/UML.md",
     "Generales/ACID.md",
@@ -267,8 +270,6 @@
     "Redes y Telecomunicaciones/Tecnicas de Transferencia.md",
     "Lab de Redes y Telecomunicaciones",
     "Graficacion y Videojuegos",
-    "create a link.md",
-    "Bases de Datos Avanzadas",
-    "Welcome.md"
+    "Bases de Datos Avanzadas"
   ]
 }
